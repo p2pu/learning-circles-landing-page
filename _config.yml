@@ -1,0 +1,8 @@
+# Site settings
+baseurl: /learning-circles-landing-page
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
